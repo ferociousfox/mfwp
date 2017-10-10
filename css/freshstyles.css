@@ -1,0 +1,24 @@
+body {
+  font-family: monospace;
+  color: #0f0;
+  background-color: #111;
+}
+
+li {
+  color: #f00;
+}
+
+li p {
+  color: #0f0;
+}
+
+h1 {
+
+  color: #0f0;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: lightblue;
+}
